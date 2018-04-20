@@ -1,0 +1,11 @@
+.settings
+.DS_Store
+
+/.idea
+*.iml
+.classpath
+.project
+
+.java-version
+
+target/
